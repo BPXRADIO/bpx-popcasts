@@ -1,14 +1,8 @@
 [
   {
     "id": "1",
-    "title": "Popcast #1 - Lancement BPX",
-    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-    "duration": 312
-  },
-  {
-    "id": "2",
-    "title": "Popcast #2 - Édition spéciale",
-    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-    "duration": 274
+    "title": "Podcast 50% Electro du 22/03/2025 Animateur: LOGIS",
+    "audio": "https://drive.google.com/uc?export=download&id=1SSStmkoD-E5PusVuuRacgGznMi-uY4xN",
+    "duration": 3470
   }
 ]
