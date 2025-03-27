@@ -10,11 +10,5 @@
     "title": "Popcast #2 - Édition spéciale",
     "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
     "duration": 274
-  },
-  {
-    "id": "3",
-    "title": "Popcast #3 - Interview exclusive",
-    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-    "duration": 401
   }
 ]
